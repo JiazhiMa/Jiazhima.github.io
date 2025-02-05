@@ -21,7 +21,7 @@ repository               : "https://github.com/JiazhiMa/Jiazhima.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "原始证件照_副本.png"
   name             : "Jiazhi Ma 马嘉志"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in Finance"
